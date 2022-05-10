@@ -1,0 +1,27 @@
+{
+  "name": "template-vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stophobia/template-vuepress.git"
+  },
+  "author": "stophobia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stophobia/template-vuepress/issues"
+  },
+  "homepage": "https://github.com/stophobia/template-vuepress#readme",
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.51.0",
+    "vuepress": "^1.9.7"
+  }
+}
