@@ -1,7 +1,7 @@
 {
   "name": "template-vuepress",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
